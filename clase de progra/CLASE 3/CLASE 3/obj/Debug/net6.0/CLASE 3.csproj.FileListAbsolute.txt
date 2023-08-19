@@ -1,0 +1,15 @@
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\CLASE 3\CLASE 3\bin\Debug\net6.0\CLASE 3.exe
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\CLASE 3\CLASE 3\bin\Debug\net6.0\CLASE 3.deps.json
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\CLASE 3\CLASE 3\bin\Debug\net6.0\CLASE 3.runtimeconfig.json
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\CLASE 3\CLASE 3\bin\Debug\net6.0\CLASE 3.dll
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\CLASE 3\CLASE 3\bin\Debug\net6.0\CLASE 3.pdb
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\CLASE 3\CLASE 3\obj\Debug\net6.0\CLASE 3.csproj.AssemblyReference.cache
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\CLASE 3\CLASE 3\obj\Debug\net6.0\CLASE 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\CLASE 3\CLASE 3\obj\Debug\net6.0\CLASE 3.AssemblyInfoInputs.cache
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\CLASE 3\CLASE 3\obj\Debug\net6.0\CLASE 3.AssemblyInfo.cs
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\CLASE 3\CLASE 3\obj\Debug\net6.0\CLASE 3.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\CLASE 3\CLASE 3\obj\Debug\net6.0\CLASE 3.dll
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\CLASE 3\CLASE 3\obj\Debug\net6.0\refint\CLASE 3.dll
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\CLASE 3\CLASE 3\obj\Debug\net6.0\CLASE 3.pdb
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\CLASE 3\CLASE 3\obj\Debug\net6.0\CLASE 3.genruntimeconfig.cache
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\CLASE 3\CLASE 3\obj\Debug\net6.0\ref\CLASE 3.dll
